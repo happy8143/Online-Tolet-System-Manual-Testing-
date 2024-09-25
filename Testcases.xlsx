@@ -1,0 +1,6 @@
+Online-ToLet-System-Manual-Testing/
+├── Test-Cases/
+│   ├── TestCases.xlsx  # All documented test cases
+├── Defects/
+│   ├── DefectLog.xlsx  # Defect log tracking any bugs found
+└── README.md  # Overview of the testing approach, tools, and instructions
